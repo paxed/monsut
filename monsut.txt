@@ -1,0 +1,330 @@
+'a'	brown	giant ant
+'a'	yellow	killer bee
+'a'	blue	soldier ant
+'a'	red	fire ant
+'a'	black	giant beetle
+'a'	magenta	queen bee
+'b'	green	acid blob
+'b'	white	quivering blob
+'b'	cyan	gelatinous cube
+'c'	brown	chickatrice
+'c'	yellow	cockatrice
+'c'	red	pyrolisk
+'d'	brown	jackal
+'d'	red	fox
+'d'	brown	coyote
+'d'	brown	werejackal
+'d'	white	little dog
+'d'	yellow	dingo
+'d'	white	dog
+'d'	white	large dog
+'d'	gray	wolf
+'d'	gray	werewolf
+'d'	cyan	winter wolf cub
+'d'	black	warg
+'d'	cyan	winter wolf
+'d'	red	hell hound pup
+'d'	red	hell hound
+'e'	gray	gas spore
+'e'	blue	floating eye
+'e'	white	freezing sphere
+'e'	red	flaming sphere
+'e'	bright blue	shocking sphere
+'f'	white	kitten
+'f'	white	housecat
+'f'	brown	jaguar
+'f'	cyan	lynx
+'f'	black	panther
+'f'	white	large cat
+'f'	yellow	tiger
+'f'	blue	displacer beast
+'g'	green	gremlin
+'g'	brown	gargoyle
+'g'	magenta	winged gargoyle
+'h'	green	hobbit
+'h'	red	dwarf
+'h'	brown	bugbear
+'h'	blue	dwarf leader
+'h'	magenta	dwarf ruler
+'h'	magenta	mind flayer
+'h'	magenta	master mind flayer
+'i'	red	manes
+'i'	green	homunculus
+'i'	red	imp
+'i'	brown	lemure
+'i'	blue	quasit
+'i'	cyan	tengu
+'j'	blue	blue jelly
+'j'	green	spotted jelly
+'j'	brown	ochre jelly
+'k'	brown	kobold
+'k'	red	large kobold
+'k'	magenta	kobold leader
+'k'	bright blue	kobold shaman
+'l'	green	leprechaun
+'m'	brown	small mimic
+'m'	red	large mimic
+'m'	magenta	giant mimic
+'n'	green	wood nymph
+'n'	blue	water nymph
+'n'	brown	mountain nymph
+'o'	gray	goblin
+'o'	brown	hobgoblin
+'o'	red	orc
+'o'	yellow	hill orc
+'o'	blue	Mordor orc
+'o'	black	Uruk-hai
+'o'	bright blue	orc shaman
+'o'	magenta	orc-captain
+'p'	gray	rock piercer
+'p'	cyan	iron piercer
+'p'	white	glass piercer
+'q'	brown	rothe
+'q'	gray	mumak
+'q'	red	leocrotta
+'q'	cyan	wumpus
+'q'	gray	titanothere
+'q'	gray	baluchitherium
+'q'	black	mastodon
+'r'	brown	sewer rat
+'r'	brown	giant rat
+'r'	brown	rabid rat
+'r'	brown	wererat
+'r'	gray	rock mole
+'r'	brown	woodchuck
+'s'	gray	cave spider
+'s'	yellow	centipede
+'s'	magenta	giant spider
+'s'	red	scorpion
+'t'	gray	lurker above
+'t'	green	trapper
+'u'	brown	pony
+'u'	white	white unicorn
+'u'	gray	gray unicorn
+'u'	black	black unicorn
+'u'	brown	horse
+'u'	brown	warhorse
+'v'	gray	fog cloud
+'v'	brown	dust vortex
+'v'	cyan	ice vortex
+'v'	bright blue	energy vortex
+'v'	blue	steam vortex
+'v'	yellow	fire vortex
+'w'	brown	baby long worm
+'w'	magenta	baby purple worm
+'w'	brown	long worm
+'w'	magenta	purple worm
+'x'	magenta	grid bug
+'x'	red	xan
+'y'	yellow	yellow light
+'y'	black	black light
+'z'	brown	zruty
+'A'	green	couatl
+'A'	yellow	Aleax
+'A'	white	Angel
+'A'	yellow	ki-rin
+'A'	magenta	Archon
+'B'	brown	bat
+'B'	red	giant bat
+'B'	black	raven
+'B'	black	vampire bat
+'C'	brown	plains centaur
+'C'	green	forest centaur
+'C'	cyan	mountain centaur
+'D'	gray	baby gray dragon
+'D'	yellow	baby gold dragon
+'D'	bright cyan	baby silver dragon
+'D'	red	baby red dragon
+'D'	white	baby white dragon
+'D'	orange	baby orange dragon
+'D'	black	baby black dragon
+'D'	blue	baby blue dragon
+'D'	green	baby green dragon
+'D'	yellow	baby yellow dragon
+'D'	gray	gray dragon
+'D'	yellow	gold dragon
+'D'	bright cyan	silver dragon
+'D'	red	red dragon
+'D'	white	white dragon
+'D'	orange	orange dragon
+'D'	black	black dragon
+'D'	blue	blue dragon
+'D'	green	green dragon
+'D'	yellow	yellow dragon
+'E'	white	stalker
+'E'	cyan	air elemental
+'E'	yellow	fire elemental
+'E'	brown	earth elemental
+'E'	blue	water elemental
+'F'	bright green	lichen
+'F'	brown	brown mold
+'F'	yellow	yellow mold
+'F'	green	green mold
+'F'	red	red mold
+'F'	magenta	shrieker
+'F'	magenta	violet fungus
+'G'	brown	gnome
+'G'	blue	gnome leader
+'G'	bright blue	gnomish wizard
+'G'	magenta	gnome ruler
+'H'	red	giant
+'H'	gray	stone giant
+'H'	cyan	hill giant
+'H'	yellow	fire giant
+'H'	white	frost giant
+'H'	brown	ettin
+'H'	blue	storm giant
+'H'	magenta	titan
+'H'	brown	minotaur
+'J'	orange	jabberwock
+'K'	blue	Keystone Kop
+'K'	blue	Kop Sergeant
+'K'	cyan	Kop Lieutenant
+'K'	magenta	Kop Kaptain
+'L'	brown	lich
+'L'	red	demilich
+'L'	magenta	master lich
+'L'	magenta	arch-lich
+'M'	brown	kobold mummy
+'M'	red	gnome mummy
+'M'	gray	orc mummy
+'M'	red	dwarf mummy
+'M'	green	elf mummy
+'M'	gray	human mummy
+'M'	blue	ettin mummy
+'M'	cyan	giant mummy
+'N'	red	red naga hatchling
+'N'	black	black naga hatchling
+'N'	yellow	golden naga hatchling
+'N'	green	guardian naga hatchling
+'N'	red	red naga
+'N'	black	black naga
+'N'	yellow	golden naga
+'N'	green	guardian naga
+'O'	brown	ogre
+'O'	red	ogre leader
+'O'	magenta	ogre tyrant
+'P'	gray	gray ooze
+'P'	brown	brown pudding
+'P'	green	green slime
+'P'	black	black pudding
+'Q'	cyan	quantum mechanic
+'Q'	green	genetic engineer
+'R'	brown	rust monster
+'R'	blue	disenchanter
+'S'	green	garter snake
+'S'	brown	snake
+'S'	red	water moccasin
+'S'	magenta	python
+'S'	blue	pit viper
+'S'	blue	cobra
+'T'	brown	troll
+'T'	white	ice troll
+'T'	cyan	rock troll
+'T'	blue	water troll
+'T'	magenta	Olog-hai
+'U'	brown	umber hulk
+'V'	red	vampire
+'V'	blue	vampire leader
+'V'	magenta	Vlad the Impaler
+'W'	gray	barrow wight
+'W'	black	wraith
+'W'	magenta	Nazgul
+'X'	brown	xorn
+'Y'	gray	monkey
+'Y'	brown	ape
+'Y'	brown	owlbear
+'Y'	white	yeti
+'Y'	black	carnivorous ape
+'Y'	gray	sasquatch
+'Z'	brown	kobold zombie
+'Z'	brown	gnome zombie
+'Z'	gray	orc zombie
+'Z'	red	dwarf zombie
+'Z'	green	elf zombie
+'Z'	white	human zombie
+'Z'	blue	ettin zombie
+'Z'	black	ghoul
+'Z'	cyan	giant zombie
+'Z'	white	skeleton
+'''	yellow	straw golem
+'''	white	paper golem
+'''	brown	rope golem
+'''	yellow	gold golem
+'''	brown	leather golem
+'''	brown	wood golem
+'''	red	flesh golem
+'''	brown	clay golem
+'''	gray	stone golem
+'''	cyan	glass golem
+'''	cyan	iron golem
+'@'	white	human
+'@'	brown	wererat
+'@'	red	werejackal
+'@'	orange	werewolf
+'@'	white	elf
+'@'	green	Woodland-elf
+'@'	bright green	Green-elf
+'@'	gray	Grey-elf
+'@'	bright blue	elf-noble
+'@'	magenta	elven monarch
+'@'	white	doppelganger
+'@'	white	shopkeeper
+'@'	blue	guard
+'@'	white	prisoner
+'@'	bright blue	Oracle
+'@'	white	aligned cleric
+'@'	white	high cleric
+'@'	gray	soldier
+'@'	red	sergeant
+'@'	white	nurse
+'@'	green	lieutenant
+'@'	blue	captain
+'@'	gray	watchman
+'@'	green	watch captain
+'@'	bright green	Medusa
+'@'	magenta	Wizard of Yendor
+'@'	magenta	Croesus
+' '	gray	ghost
+' '	black	shade
+'&'	blue	water demon
+'&'	gray	amorous demon
+'&'	brown	horned devil
+'&'	red	erinys
+'&'	red	barbed devil
+'&'	red	marilith
+'&'	green	vrock
+'&'	green	hezrou
+'&'	gray	bone devil
+'&'	white	ice devil
+'&'	red	nalfeshnee
+'&'	red	pit fiend
+'&'	gray	sandestin
+'&'	red	balrog
+'&'	bright green	Juiblex
+'&'	magenta	Yeenoghu
+'&'	magenta	Orcus
+'&'	magenta	Geryon
+'&'	magenta	Dispater
+'&'	magenta	Baalzebub
+'&'	magenta	Asmodeus
+'&'	magenta	Demogorgon
+'&'	magenta	Death
+'&'	magenta	Pestilence
+'&'	magenta	Famine
+'&'	bright blue	mail daemon
+'&'	yellow	djinni
+';'	blue	jellyfish
+';'	red	piranha
+';'	gray	shark
+';'	cyan	giant eel
+';'	bright blue	electric eel
+';'	red	kraken
+':'	yellow	newt
+':'	green	gecko
+':'	brown	iguana
+':'	brown	baby crocodile
+':'	green	lizard
+':'	brown	chameleon
+':'	brown	crocodile
+':'	orange	salamander
