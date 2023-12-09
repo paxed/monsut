@@ -328,3 +328,56 @@
 ':'	brown	chameleon
 ':'	brown	crocodile
 ':'	orange	salamander
+'~'	brown	long worm tail
+'@'	white	archeologist
+'@'	white	barbarian
+'@'	white	cave dweller
+'@'	white	healer
+'@'	white	knight
+'@'	white	monk
+'@'	white	cleric
+'@'	white	ranger
+'@'	white	rogue
+'@'	white	samurai
+'@'	white	tourist
+'@'	white	valkyrie
+'@'	white	wizard
+'@'	magenta	Lord Carnarvon
+'@'	magenta	Pelias
+'@'	magenta	Shaman Karnov
+'@'	magenta	Hippocrates
+'@'	magenta	King Arthur
+'@'	black	Grand Master
+'@'	white	Arch Priest
+'@'	magenta	Orion
+'@'	magenta	Master of Thieves
+'@'	magenta	Lord Sato
+'@'	white	Twoflower
+'@'	magenta	Norn
+'@'	green	Neferet the Green
+'&'	red	Minion of Huhetotl
+'@'	magenta	Thoth Amon
+'D'	magenta	Chromatic Dragon
+'H'	gray	Cyclops
+'D'	red	Ixoth
+'@'	magenta	Master Kaen
+'&'	red	Nalzok
+'s'	magenta	Scorpius
+'@'	magenta	Master Assassin
+'@'	magenta	Ashikaga Takauji
+'H'	magenta	Lord Surtur
+'@'	black	Dark One
+'@'	white	student
+'@'	white	chieftain
+'@'	white	neanderthal
+'@'	white	attendant
+'@'	white	page
+'@'	white	abbot
+'@'	white	acolyte
+'@'	white	hunter
+'@'	white	thug
+'@'	white	ninja
+'@'	white	roshi
+'@'	white	guide
+'@'	white	warrior
+'@'	white	apprentice
