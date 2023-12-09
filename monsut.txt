@@ -46,8 +46,8 @@
 'h'	brown	bugbear
 'h'	blue	dwarf leader
 'h'	magenta	dwarf ruler
-'h'	magenta	mind flayer
-'h'	magenta	master mind flayer
+'h'	bright magenta	mind flayer
+'h'	bright magenta	master mind flayer
 'i'	red	manes
 'i'	green	homunculus
 'i'	red	imp
@@ -283,7 +283,7 @@
 '@'	gray	watchman
 '@'	green	watch captain
 '@'	bright green	Medusa
-'@'	magenta	Wizard of Yendor
+'@'	bright magenta	Wizard of Yendor
 '@'	magenta	Croesus
 ' '	gray	ghost
 ' '	black	shade
@@ -309,9 +309,9 @@
 '&'	magenta	Baalzebub
 '&'	magenta	Asmodeus
 '&'	magenta	Demogorgon
-'&'	magenta	Death
-'&'	magenta	Pestilence
-'&'	magenta	Famine
+'&'	bright magenta	Death
+'&'	bright magenta	Pestilence
+'&'	bright magenta	Famine
 '&'	bright blue	mail daemon
 '&'	yellow	djinni
 ';'	blue	jellyfish
