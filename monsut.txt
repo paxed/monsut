@@ -355,13 +355,13 @@
 '@'	white	Twoflower
 '@'	magenta	Norn
 '@'	green	Neferet the Green
-'&'	red	Minion of Huhetotl
+'&'	orange	Minion of Huhetotl
 '@'	magenta	Thoth Amon
 'D'	magenta	Chromatic Dragon
 'H'	gray	Cyclops
 'D'	red	Ixoth
 '@'	magenta	Master Kaen
-'&'	red	Nalzok
+'&'	orange	Nalzok
 's'	magenta	Scorpius
 '@'	magenta	Master Assassin
 '@'	magenta	Ashikaga Takauji
